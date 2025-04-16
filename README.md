@@ -65,7 +65,7 @@ I am a Python developer with extensive experience in AI and Generative AI. I am 
 ![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=talhasayyed&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talhasayyed&layout=compact&theme=radical)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=talhasayyed&theme=radical)
-![Trophies](https://github-profile-trophy.vercel.app/?username=talhasayyed&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=talhasayyed&theme=onestar)
 
 
 ## 🔗 Connect with Me
