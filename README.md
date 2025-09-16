@@ -25,8 +25,10 @@ I am a Python developer with extensive experience in AI and Generative AI. I am 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-[VectorDB](https://vectordb.ai)
-[Chroma DB](https://www.trychroma.com)
+![VectorDB](https://img.shields.io/badge/-VectorDB-black?style=flat-square&logo=databricks)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-black?style=flat-square&logo=google-chrome)
+![Pinecone](https://img.shields.io/badge/-Pinecone-black?style=flat-square&logo=pinecone)
+![FAISS](https://img.shields.io/badge/-FAISS-black?style=flat-square&logo=facebook)
 
 ### Frameworks and Libraries
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
