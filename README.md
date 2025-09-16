@@ -60,12 +60,12 @@ I am a Python developer with extensive experience in AI and Generative AI. I am 
 ![GenAI](https://img.shields.io/badge/-GenAI-black?style=flat-square&logo=genai)
 ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform)
 
- [//]: ## 📈 GitHub Stats
+ <!-- ## 📈 GitHub Stats
 
- [//]: ![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=talhasayyed&show_icons=true&theme=radical)
- [//]: ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talhasayyed&layout=compact&theme=radical)
- [//]: ![Trophies](https://github-profile-trophy.vercel.app/?username=talhasayyed&theme=onestar)
-
+ ![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=talhasayyed&show_icons=true&theme=radical)
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talhasayyed&layout=compact&theme=radical)
+ ![Trophies](https://github-profile-trophy.vercel.app/?username=talhasayyed&theme=onestar)
+-->
 
 ## 🔗 Connect with Me
 
